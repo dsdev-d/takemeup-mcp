@@ -1,6 +1,6 @@
 {
   "name": "takemeup",
-  "description": "TakeMeUp.cv's Claude plugin: build, check and tailor CVs with TakeMeUp's hosted MCP server.",
+  "description": "TakeMeUp.cv for Claude: a CV and resume builder with country formats, ATS checks, cover letters and a job tracker.",
   "owner": {
     "name": "TakeMeUp.cv",
     "email": "contact@takemeup.cv",
@@ -10,7 +10,7 @@
     {
       "name": "takemeup",
       "source": "./",
-      "description": "Build a CV in the right format for the country, check it (ATS, GDPR, six-second skim, weak achievements), tailor it to a job ad and track your applications."
+      "description": "Build a CV or resume in the right format for the country, check it (ATS, GDPR, six-second skim, weak achievements), tailor it to a job ad with a cover letter, and track your applications."
     }
   ]
 }

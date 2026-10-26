@@ -2,10 +2,10 @@
   <img src="assets/logo.png" alt="TakeMeUp.cv" width="96" height="96">
 </p>
 
-<h1 align="center">TakeMeUp.cv for Claude</h1>
+<h1 align="center">TakeMeUp.cv for Claude — CV &amp; Resume Builder</h1>
 
 <p align="center">
-  Build, check and tailor real CVs from Claude — in the right format for the country you're applying in.<br>
+  Build, check and tailor real CVs and resumes from Claude — in the right format for the country you're applying in.<br>
   <a href="https://takemeup.cv/en/guides/build-cv-with-claude">How it works</a> ·
   <a href="https://takemeup.cv">takemeup.cv</a> ·
   <a href="https://takemeup.cv/en/privacy">Privacy</a>
@@ -13,10 +13,17 @@
 
 ---
 
-[TakeMeUp.cv](https://takemeup.cv) is a CV builder for Europe. It knows each country's CV conventions — whether a photo,
-date of birth or nationality belongs on the CV, and how dates are written — in 14 languages, and it has templates,
-free ATS and GDPR checks, AI features (rewrite, cover letter, job match, interview prep, translation, LinkedIn profile,
-Europass export) and a job tracker.
+[TakeMeUp.cv](https://takemeup.cv) is a CV and resume builder for Europe. It knows each country's CV conventions —
+whether a photo, date of birth or nationality belongs on the CV, and how dates are written — in 14 languages. With this
+plugin, Claude can:
+
+- **write and edit your CV** from a file you attach or from what you tell it, in ATS-friendly templates, and show a preview;
+- **check it for free**: ATS (applicant tracking system) score, GDPR and personal-data risk, the six-second recruiter skim,
+  and weak achievement bullets;
+- **tailor it to a job ad**, with job matching, an AI rewrite, a cover letter and interview prep (PRO);
+- **translate it** into another language as a new CV, export **Europass**, and turn it into a **LinkedIn profile** (PRO);
+- **track your job applications** with statuses and follow-up dates, and let verified recruiters find your CV;
+- give you a **PDF or Word download link** under your plan.
 
 This plugin connects Claude to TakeMeUp's **hosted** [Model Context Protocol](https://modelcontextprotocol.io) server,
 so Claude works on your actual CV on your TakeMeUp account instead of text in a chat. There's nothing to install or run:

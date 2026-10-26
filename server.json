@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "cv.takemeup/takemeup",
-  "title": "TakeMeUp.cv",
-  "description": "Build and tailor CVs: country formats in 14 languages, ATS checks, cover letters, job tracker.",
-  "version": "0.3.0",
+  "title": "TakeMeUp.cv – CV & Resume Builder",
+  "description": "CV & resume builder: country formats in 14 languages, ATS checks, cover letters, job tracker.",
+  "version": "0.3.1",
   "websiteUrl": "https://takemeup.cv/en/guides/build-cv-with-claude",
   "repository": {
     "url": "https://github.com/dsdev-d/takemeup-mcp",
