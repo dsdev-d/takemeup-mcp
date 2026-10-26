@@ -1,0 +1,20 @@
+{
+  "name": "takemeup",
+  "displayName": "TakeMeUp.cv",
+  "version": "0.3.0",
+  "description": "Build, check and tailor real CVs with TakeMeUp.cv's hosted MCP server: country-correct CV formats in 14 languages, templates, ATS and GDPR checks, AI rewrite, cover letters, job matching, translation, a job tracker and PDF/Word download links — all on your own TakeMeUp account and plan.",
+  "author": {
+    "name": "TakeMeUp.cv",
+    "email": "contact@takemeup.cv",
+    "url": "https://takemeup.cv"
+  },
+  "homepage": "https://takemeup.cv/en/guides/build-cv-with-claude",
+  "repository": "https://github.com/OWNER/takemeup-mcp",
+  "license": "MIT",
+  "keywords": ["cv", "resume", "cv builder", "job search", "ats", "cover letter", "europass", "job tracker", "career", "europe", "mcp"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://takemeup.cv/en/guides/build-cv-with-claude",
+  "supportUrl": "https://takemeup.cv/en/about",
+  "privacyPolicyUrl": "https://takemeup.cv/en/privacy",
+  "termsOfServiceUrl": "https://takemeup.cv/en/terms"
+}

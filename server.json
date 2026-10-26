@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "cv.takemeup/takemeup",
+  "title": "TakeMeUp.cv",
+  "description": "Build and tailor CVs: country formats in 14 languages, ATS checks, cover letters, job tracker.",
+  "version": "0.3.0",
+  "websiteUrl": "https://takemeup.cv/en/guides/build-cv-with-claude",
+  "repository": {
+    "url": "https://github.com/OWNER/takemeup-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://takemeup.cv/logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://takemeup.cv/api/mcp"
+    }
+  ]
+}

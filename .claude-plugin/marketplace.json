@@ -1,0 +1,16 @@
+{
+  "name": "takemeup",
+  "description": "TakeMeUp.cv's Claude plugin: build, check and tailor CVs with TakeMeUp's hosted MCP server.",
+  "owner": {
+    "name": "TakeMeUp.cv",
+    "email": "contact@takemeup.cv",
+    "url": "https://takemeup.cv"
+  },
+  "plugins": [
+    {
+      "name": "takemeup",
+      "source": "./",
+      "description": "Build a CV in the right format for the country, check it (ATS, GDPR, six-second skim, weak achievements), tailor it to a job ad and track your applications."
+    }
+  ]
+}

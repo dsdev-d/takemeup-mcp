@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "takemeup": {
+      "type": "http",
+      "url": "https://takemeup.cv/api/mcp"
+    }
+  }
+}
