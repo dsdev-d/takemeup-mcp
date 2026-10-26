@@ -9,7 +9,7 @@
     "url": "https://takemeup.cv"
   },
   "homepage": "https://takemeup.cv/en/guides/build-cv-with-claude",
-  "repository": "https://github.com/OWNER/takemeup-mcp",
+  "repository": "https://github.com/dsdev-d/takemeup-mcp",
   "license": "MIT",
   "keywords": ["cv", "resume", "cv builder", "job search", "ats", "cover letter", "europass", "job tracker", "career", "europe", "mcp"],
   "icon": "./assets/logo.png",

@@ -76,7 +76,7 @@ Full details: [Privacy policy — AI assistants you connect](https://takemeup.cv
 In Claude Code:
 
 ```
-/plugin marketplace add OWNER/takemeup-mcp
+/plugin marketplace add dsdev-d/takemeup-mcp
 /plugin install takemeup@takemeup
 ```
 
